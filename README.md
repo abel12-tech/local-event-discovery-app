@@ -1,4 +1,4 @@
-# CityPulse - Local Event Discovery App
+ # Local Event Discovery App
 
 A beautiful, modern mobile application for discovering and managing local events.
 
